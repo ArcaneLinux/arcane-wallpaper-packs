@@ -1,3 +1,4 @@
+![Arcane Wallpaper Example](https://github.com/ArcaneLinux/ArcaneBranding/raw/main/Branding/Arcane%20Banner.png)
 # Arcane Wallpaper Packs
 The installation will come with various wallpapers out of the box. Since I"m not always into the same thing, and my tastes are always changing throughout the year, I hope that all of these wallpaper packs will satisfy that.
 
