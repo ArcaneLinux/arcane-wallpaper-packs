@@ -15,7 +15,7 @@ All of these wallpapers will be rendered in 4K in .PNG to conserve the best qual
 - **Suckless Wallpaper Pack*** - Super minimal wallpapers!
 
 # **Stock Pack**
-
+![Stock Wallpaper Banner](https://github.com/ArcaneLinux/arcane-wallpaper-packs/blob/main/Projects/Banners/Stock%20Wallpaper%20Banner.png)
 Basically contains all of the unedited stock photos that I use to get my wallpapers. Some of the images that I used throughout this wallpaper pack have been converted to 16:9, and 21:9 aspect ratios. I've included the originals if that's something you might be interested at. This pack also contains links and credits to the original photographers or designers for these wallpapers. Please support them too! :D
 
 # **[Arcane Wallpaper Pack](https://github.com/ArcaneLinux/arcane-wallpaper-packs/wiki/Arcane-Wallpaper-Pack)**
