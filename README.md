@@ -8,7 +8,8 @@ All of these wallpapers will be rendered in 4K in .PNG to conserve the best qual
 - [**Stock Pack**](https://github.com/ArcaneLinux/arcane-wallpaper-packs/wiki/Stock-Wallpaper-Pack) - Basically contains all of the unedited stock photos that I use to get my wallpapers.
 - [**Arcane Pack**](https://github.com/ArcaneLinux/arcane-wallpaper-packs/wiki/Arcane-Wallpaper-Pack) - My Favorite Wallpapers edited for this pack.
 - **Country Pack** - Beautiful scenic views from various countries.
-- **Galactic Pack** - Contains various galaxy wallpapers 
+- **Galactic Pack** - Contains various galaxy wallpapers
+- **JWST Pack** - This wallpaper has a lot of the beautiful shots that were taken by the JWST
 - **Abstract Pack** - This will contain various abstract art and different 
 - **Spoopy Pack** - Contains various dark wallpapers that are kinda horror based since I'm a major horror buff lol
 - **FOR SCIENCE Pack** - Various science and science fiction wallpapers I find on the internet.
